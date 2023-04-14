@@ -6,7 +6,7 @@
   
     "routes": [{
         "src": "/(.*)",
-        "dest": "/api/index.php"
+        "dest": "/gamecom1 - final/api/index.php"
     }],
     "env": {
         "APP_NAME": "Gamecom-laravel",
